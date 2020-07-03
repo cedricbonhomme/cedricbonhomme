@@ -11,7 +11,8 @@ _________________
 
 #### Sponsored projects
 
-<a href="https://github.com/MISP"><img align="left" src="https://raw.githubusercontent.com/MISP/MISP/2.4/INSTALL/logos/misp-logo.png" title="MISP - Threat Intelligence Sharing Platform" width="200px" /></a><a href="https://github.com/ail-project"><img align="center" src="https://raw.githubusercontent.com/ail-project/ail-framework/master/var/www/static/image/ail-icon.png" title="MISP - Threat Intelligence Sharing Platform" width="200px" /></a><a href="https://github.com/monarc-project"><img src="https://github.com/monarc-project/ng-client/blob/master/img/logo-monarc.png" width="200px" /></a> 
+<a href="https://github.com/MISP"><img align="left" src="https://raw.githubusercontent.com/MISP/MISP/2.4/INSTALL/logos/misp-logo.png" title="MISP - Threat Intelligence Sharing Platform" width="200px" /></a><a href="https://github.com/ail-project"><img align="center" src="https://raw.githubusercontent.com/ail-project/ail-framework/master/var/www/static/image/ail-icon.png" title="MISP - Threat Intelligence Sharing Platform" width="200px" /></a><a href="https://github.com/monarc-project"><img src="https://github.com/monarc-project/ng-client/blob/master/img/logo-monarc.png" width="200px" /></a>
+<a href="https://github.com/D4-project"><img src="https://github.com/D4-project/architecture/blob/master/docs/logos/small.png" width="200px" /></a> 
 
 
-
+and I could add so much more!
