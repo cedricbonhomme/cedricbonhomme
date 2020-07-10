@@ -102,7 +102,7 @@ def fetch_blog_entries():
 
 if __name__ == "__main__":
     readme = root / "README.md"
-    releases = [] #fetch_releases(TOKEN)
+    releases = fetch_releases(TOKEN)
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     md = "\n".join(
         [
