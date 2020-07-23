@@ -12,8 +12,8 @@ You can find some [notable projects here](https://wiki.cedricbonhomme.org/softwa
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [monarc-training Training at C3 - Luxembourg](https://github.com/monarc-project/monarc-training/releases/tag/training_C3_2020-07-22) - 2020-07-22
 * [stats-service Release 0.1.10](https://github.com/monarc-project/stats-service/releases/tag/v0.1.10) - 2020-07-16
-* [monarc-training Training at Centre de crise - Brussels, Belgium](https://github.com/monarc-project/monarc-training/releases/tag/training_CCB_2020-02-12) - 2020-07-02
 * [newspipe Release 9.4.0](https://github.com/cedricbonhomme/newspipe/releases/tag/v9.4.0) - 2020-06-08
 * [pyEnigma Release 0.3.0](https://github.com/cedricbonhomme/pyEnigma/releases/tag/v0.3.0) - 2020-05-10
 * [MOSP Release 0.13](https://github.com/CASES-LU/MOSP/releases/tag/v0.13) - 2020-04-23
