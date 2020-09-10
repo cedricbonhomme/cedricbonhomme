@@ -1,3 +1,7 @@
+
+[![](https://raw.githubusercontent.com/cedricbonhomme/cedricbonhomme/master/bg.jpg)](https://www.cedricbonhomme.org)
+
+
 ### Hi !
 
 My name is Cédric.
