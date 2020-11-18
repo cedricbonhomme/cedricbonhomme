@@ -2,9 +2,8 @@
 [![](https://raw.githubusercontent.com/cedricbonhomme/cedricbonhomme/master/bg.jpg)](https://www.cedricbonhomme.org)
 
 
-### Hi !
+### Hi there, I'm Cédric 👋
 
-My name is Cédric.
 I'm a computer scientist, intensely interested in computer security and I contribute to many open source projects since more than 15 years.
 You can find some [notable projects here](https://wiki.cedricbonhomme.org/software) and [sponsor me](https://github.com/sponsors/cedricbonhomme) if you like.
 
