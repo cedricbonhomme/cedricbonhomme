@@ -15,8 +15,8 @@ If you would like to contribute to any of my projects, please do so on [Sourcehu
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [monarc-training Training at C3 - Luxembourg - 2020-12-03](https://github.com/monarc-project/monarc-training/releases/tag/training_C3_2020-12-03) - 2020-12-02
 * [stats-service Version 0.2.0](https://github.com/monarc-project/stats-service/releases/tag/v0.2.0) - 2020-11-18
-* [monarc-training Training at C3 - Luxembourg](https://github.com/monarc-project/monarc-training/releases/tag/training_C3_2020-07-22) - 2020-07-22
 * [newspipe Release 9.4.0](https://github.com/cedricbonhomme/newspipe/releases/tag/v9.4.0) - 2020-06-08
 * [pyEnigma Release 0.3.0](https://github.com/cedricbonhomme/pyEnigma/releases/tag/v0.3.0) - 2020-05-10
 * [MOSP Release 0.13](https://github.com/CASES-LU/MOSP/releases/tag/v0.13) - 2020-04-23
