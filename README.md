@@ -1,7 +1,3 @@
-
-[![](https://raw.githubusercontent.com/cedricbonhomme/cedricbonhomme/master/bg.jpg)](https://www.cedricbonhomme.org)
-
-
 ### Hi there, I'm Cédric 👋
 
 I'm a computer scientist, intensely interested in computer security and I contribute to many open source projects since more than 15 years.
