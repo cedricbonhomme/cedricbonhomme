@@ -3,11 +3,11 @@
 I'm a computer scientist, intensely interested in computer security and I contribute to many open source projects since more than 15 years.
 You can find some [notable projects here](https://wiki.cedricbonhomme.org/software) and [sponsor me](https://github.com/sponsors/cedricbonhomme) if you like.
 
-I'm fan of [Mastodon](https://fosstodon.org/@cedric) and Matrix. You can contact me [there](https://wiki.cedricbonhomme.org/contact).
+I'm fan of [Mastodon](https://fosstodon.org/@cedric) and XMPP. Do not hesitate to [contact me](https://wiki.cedricbonhomme.org/contact).
 
 If you would like to contribute to any of my projects, please do so on [Sourcehut](https://sr.ht/~cedric).
 
-### On my blog
+#### Recently on my blog
 
 <!-- blog starts -->
 * [Blog terminé](https://blog.cedricbonhomme.org/2021/03/17/blog-termine/) - 
