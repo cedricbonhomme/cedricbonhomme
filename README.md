@@ -18,3 +18,6 @@ If you would like to contribute to any of my projects, please do so on [Sourcehu
 <!-- blog ends -->
 
 More on [https://blog.cedricbonhomme.org](https://blog.cedricbonhomme.org)
+
+
+[![Donations via LiberaPay](https://img.shields.io/liberapay/gives/cedricbonhomme.svg?logo=liberapay)](https://liberapay.com/cedricbonhomme)
