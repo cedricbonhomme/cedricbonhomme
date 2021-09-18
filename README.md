@@ -1,11 +1,16 @@
 ### Hi there, I'm Cédric 👋
 
-I'm a computer scientist, intensely interested in computer security and I contribute to many open source projects since more than 15 years.
-You can find some [notable projects here](https://wiki.cedricbonhomme.org/software) and [sponsor me](https://github.com/sponsors/cedricbonhomme) if you like.
+I'm a computer scientist, intensely interested in computer security.
+I contribute to many open source projects since more than 15 years.
 
-I'm fan of [Mastodon](https://fosstodon.org/@cedric) and XMPP. Do not hesitate to [contact me](https://wiki.cedricbonhomme.org/contact).
+Do not hesitate to [contact me](https://wiki.cedricbonhomme.org/contact).
+I'm fan of [Mastodon](https://fosstodon.org/@cedric).
 
-If you would like to contribute to any of my projects, please do so on [Sourcehut](https://sr.ht/~cedric).
+You can find some [notable projects](https://wiki.cedricbonhomme.org/software)
+and [sponsor me](https://github.com/sponsors/cedricbonhomme) if you like.
+If you would like to contribute to any of my projects, please do so on
+[Sourcehut](https://sr.ht/~cedric).
+
 
 #### Recently on my blog
 
