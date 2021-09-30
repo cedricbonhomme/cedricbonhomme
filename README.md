@@ -1,9 +1,9 @@
 ### Hi there, I'm Cédric 👋
 
 I'm a computer scientist, intensely interested in computer security and privacy.
-I contribute to many open source projects since more than 15 years.
+I contribute to many open source projects since more than 20 years.
 
-Do not hesitate to [contact me](https://wiki.cedricbonhomme.org/contact).
+You can read more [about me](https://wiki.cedricbonhomme.org/contact).
 I'm fan of [Mastodon](https://fosstodon.org/@cedric).
 
 You can find some [notable projects](https://wiki.cedricbonhomme.org/software).
