@@ -18,7 +18,7 @@ def replace_chunk(content, marker, chunk):
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://blog.cedricbonhomme.org/feed")["entries"]
+    entries = feedparser.parse("https://blog.cedricbonhomme.org/feed/")["entries"]
     return [
         {
             "title": entry["title"],
