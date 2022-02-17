@@ -13,11 +13,11 @@ If you would like to contribute to any of
 #### Recently on my blog
 
 <!-- blog starts -->
+* [Elliot Playing Piano](https://www.cedricbonhomme.org/post/2022/02/17/elliot-playing-piano/)
 * [IP-Link – Twelve years after](https://www.cedricbonhomme.org/post/2022/01/27/ip-link-twelve-years-after/)
 * [Shi-Tomashi corner generator available in Stegano](https://www.cedricbonhomme.org/post/2021/11/29/shi-tomashi-corner-generator-available-in-stegano/)
 * [Zoom-Zoom bobo](https://www.cedricbonhomme.org/post/2021/09/15/zoom-zoom-bobo/)
 * [Monitor the status of several services](https://www.cedricbonhomme.org/post/2021/06/02/monitor-the-status-of-several-services/)
-* [Blog terminé](https://www.cedricbonhomme.org/post/2021/03/16/blog-termin%C3%A9/)
 <!-- blog ends -->
 
 More on [https://www.cedricbonhomme.org/post](https://www.cedricbonhomme.org/post)
