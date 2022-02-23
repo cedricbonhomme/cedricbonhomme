@@ -20,7 +20,7 @@ If you would like to contribute to any of
 * [Blog terminé](https://www.cedricbonhomme.org/post/2021/03/16/blog-termin%C3%A9/) - 
 <!-- blog ends -->
 
-More on [https://www.cedricbonhomme.org/post](https://www.cedricbonhomme.org/post)
+More on [https://www.cedricbonhomme.org/post](https://www.cedricbonhomme.org)
 
 [![Donations via LiberaPay](https://img.shields.io/liberapay/gives/cedricbonhomme.svg?logo=liberapay)](https://liberapay.com/cedricbonhomme)
 
