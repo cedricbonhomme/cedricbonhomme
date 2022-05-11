@@ -13,8 +13,8 @@ If you would like to contribute to any of
 #### Recently on my blog
 
 <!-- blog starts -->
+* [Freshermeat 0.8.1](https://www.cedricbonhomme.org/2022/05/10/freshermeat-0-8-1/)
 * [A new family member](https://www.cedricbonhomme.org/2022/04/15/double-bass/)
-* [Newspipe 9.5.0](https://www.cedricbonhomme.org/2022/03/31/newspipe-9-5-0/)
 * [ActivityPub](https://www.cedricbonhomme.org/2022/03/21/activitypub/)
 * [Hello Hugo !](https://www.cedricbonhomme.org/2022/03/19/hugo/)
 * [Python en tête](https://www.cedricbonhomme.org/2022/03/16/python-en-tete/)
