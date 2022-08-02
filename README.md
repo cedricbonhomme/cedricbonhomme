@@ -13,11 +13,11 @@ If you would like to contribute to any of
 #### Recently on my blog
 
 <!-- blog starts -->
+* [Back from holidays… and with new photos !](https://www.cedricbonhomme.org/2022/08/01/back-from-holidays/)
 * [A “now” page](https://www.cedricbonhomme.org/2022/05/12/now-page/)
 * [Freshermeat 0.8.1](https://www.cedricbonhomme.org/2022/05/10/freshermeat-0-8-1/)
 * [A new family member](https://www.cedricbonhomme.org/2022/04/15/double-bass/)
 * [ActivityPub](https://www.cedricbonhomme.org/2022/03/21/activitypub/)
-* [Hello Hugo !](https://www.cedricbonhomme.org/2022/03/19/hugo/)
 <!-- blog ends -->
 
 More on [https://www.cedricbonhomme.org/post](https://www.cedricbonhomme.org)
