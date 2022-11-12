@@ -24,4 +24,4 @@ More on [https://www.cedricbonhomme.org/post](https://www.cedricbonhomme.org)
 
 [![Donations via LiberaPay](https://img.shields.io/liberapay/gives/cedricbonhomme.svg?logo=liberapay)](https://liberapay.com/cedricbonhomme)
 
-🐘 Mastodon: [@cedric@fosstodon.org](https://fosstodon.org/@cedric)
+🐘 Mastodon: <a rel="me" href="https://fosstodon.org/@cedric">@cedric@fosstodon.org</a>
