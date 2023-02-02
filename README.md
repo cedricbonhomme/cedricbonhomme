@@ -2,7 +2,6 @@
 
 I'm a computer scientist, intensely interested in computer security and privacy.
 I contribute to many open source projects since more than 20 years.
-
 You can read more [about me](https://www.cedricbonhomme.org/about).
 
 If you would like to contribute to any of
