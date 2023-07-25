@@ -12,11 +12,11 @@ If you would like to contribute to any of
 #### Recently on my blog
 
 <!-- blog starts -->
+* [Me, but you, but me](https://www.cedricbonhomme.org/2023/07/24/me-but-you-but-me/)
 * [École de Musique Associative du Val Sierckois](https://www.cedricbonhomme.org/2022/08/08/ecole-de-musique-associative-du-val-sierckois/)
 * [Back from holidays… and with new photos !](https://www.cedricbonhomme.org/2022/08/01/back-from-holidays/)
 * [A “now” page](https://www.cedricbonhomme.org/2022/05/12/now-page/)
 * [Freshermeat 0.8.1](https://www.cedricbonhomme.org/2022/05/10/freshermeat-0-8-1/)
-* [A new family member](https://www.cedricbonhomme.org/2022/04/15/double-bass/)
 <!-- blog ends -->
 
 More on [https://www.cedricbonhomme.org/post](https://www.cedricbonhomme.org)
