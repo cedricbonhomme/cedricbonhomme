@@ -4,9 +4,7 @@ I'm a computer scientist, intensely interested in computer security and privacy.
 I contribute to many open source projects since more than 20 years.
 You can read more [about me](https://www.cedricbonhomme.org/about).
 
-If you would like to contribute to any of
-[my projects](https://www.cedricbonhomme.org/software), please do so on
-[Sourcehut](https://sr.ht/~cedric).
+Some notable [projects](https://www.cedricbonhomme.org/software) to which I contributed.
 
 
 #### Recently on my blog
@@ -19,7 +17,5 @@ If you would like to contribute to any of
 * [A “now” page](https://www.cedricbonhomme.org/2022/05/12/now-page/)
 <!-- blog ends -->
 
-More on [https://www.cedricbonhomme.org/post](https://www.cedricbonhomme.org)
-
-[![Donations via LiberaPay](https://img.shields.io/liberapay/gives/cedricbonhomme.svg?logo=liberapay)](https://liberapay.com/cedricbonhomme)
+More on [https://www.cedricbonhomme.org/blog](https://www.cedricbonhomme.org/blog)
 
