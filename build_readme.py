@@ -18,7 +18,7 @@ def replace_chunk(content, marker, chunk):
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://www.cedricbonhomme.org/post/index.xml")["entries"]
+    entries = feedparser.parse("https://www.cedricbonhomme.org/blog/index.xml")["entries"]
     print("Number of entries in the RSS feed:")
     print(len(entries))
     return [
