@@ -15,3 +15,6 @@ Some notable [projects](https://www.cedricbonhomme.org/software) to which I cont
 
 More on [https://www.cedricbonhomme.org/blog](https://www.cedricbonhomme.org/blog)
 
+[Fosstodon](https://fosstodon.org/@cedric)
+
+[CIRCL Mastodon instance](https://social.circl.lu/@cedric)
