@@ -10,11 +10,11 @@ Some notable [projects](https://www.cedricbonhomme.org/software) to which I cont
 #### Recently on my blog
 
 <!-- blog starts -->
+* [My default apps at the end of 2023](https://www.cedricbonhomme.org/2023/11/08/my-default-apps-at-the-end-of-2023/)
+* [Newspipe 10.0.0](https://www.cedricbonhomme.org/2023/11/08/newspipe-10-0-0/)
 * [Night troubles](https://www.cedricbonhomme.org/2023/10/30/night-troubles/)
 * [pyHIDS 0.8.0](https://www.cedricbonhomme.org/2023/10/06/pyhids-0-8-0/)
 * [pyHIDS 0.6.1](https://www.cedricbonhomme.org/2023/08/04/pyhids-0-6-1/)
-* [Me, but you, but me](https://www.cedricbonhomme.org/2023/07/24/me-but-you-but-me/)
-* [École de Musique Associative du Val Sierckois](https://www.cedricbonhomme.org/2022/08/08/ecole-de-musique-associative-du-val-sierckois/)
 <!-- blog ends -->
 
 More on [https://www.cedricbonhomme.org/blog](https://www.cedricbonhomme.org/blog)
