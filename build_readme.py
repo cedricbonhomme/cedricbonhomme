@@ -1,12 +1,8 @@
 import feedparser
 import pathlib
 import re
-import os
 
 root = pathlib.Path(__file__).parent.resolve()
-
-TOKEN = os.environ.get("CEDRIC_TOKEN", "")
-
 
 def replace_chunk(content, marker, chunk):
     r = re.compile(
@@ -39,3 +35,4 @@ if __name__ == "__main__":
     )
     rewritten = replace_chunk(readme_contents, "blog", entries_md)
     readme.open("w").write(rewritten)
+
