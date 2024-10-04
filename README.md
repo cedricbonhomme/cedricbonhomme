@@ -23,3 +23,14 @@ More on [https://www.cedricbonhomme.org/blog](https://www.cedricbonhomme.org/blo
 
 [CIRCL Mastodon instance](https://social.circl.lu/@cedric)
 
+
+#### Donations
+
+If you wish and if you like my work, you can donate:
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/cedricbonhomme)](https://github.com/sponsors/cedricbonhomme)
+
+or with Bitcoin to this address:  
+bc1q56u6sj7cvlwu58v5lemljcvkh7v2gc3tv8mj0e
+
+Thank you !
