@@ -31,6 +31,6 @@ If you wish and if you like my work, you can donate:
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/cedricbonhomme)](https://github.com/sponsors/cedricbonhomme)
 
 or with Bitcoin to this address:  
-bc1q56u6sj7cvlwu58v5lemljcvkh7v2gc3tv8mj0e
+[bc1q56u6sj7cvlwu58v5lemljcvkh7v2gc3tv8mj0e](bitcoin:BC1Q56U6SJ7CVLWU58V5LEMLJCVKH7V2GC3TV8MJ0E?label=Open%20Source%20projects)
 
 Thank you !
