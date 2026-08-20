@@ -12,11 +12,11 @@ You can also find more updates on my [blog](https://www.cedricbonhomme.org/blog)
 ### Recently on my blog
 
 <!-- blog starts -->
-* [RSS Feeds With a Fresh Coat of XSLT](https://www.cedricbonhomme.org/2025/08/18/rss-xslt-styling/)
-* [Stegano 2.0.0 released](https://www.cedricbonhomme.org/2025/06/22/stegano-2-0-0/)
-* [Newspipe 11.1.0 released](https://www.cedricbonhomme.org/2024/11/17/newspipe-11-1-0/)
-* [My default apps at the end of 2023](https://www.cedricbonhomme.org/2023/11/08/my-default-apps-at-the-end-of-2023/)
-* [Newspipe 10.0.0](https://www.cedricbonhomme.org/2023/11/08/newspipe-10-0-0/)
+* [Challenging Claude's creativity with IFS fractals and OCaml](https://www.cedricbonhomme.org/2026/07/27/challenging-claude-with-ifs-fractals/)
+* [Newspipe 12.1.0 released](https://www.cedricbonhomme.org/2026/06/28/newspipe-12-1-0/)
+* [I Ran My First Half Marathon](https://www.cedricbonhomme.org/2026/05/17/i-ran-my-first-half-marathon/)
+* [Alcohol-Free, and It's Actually Pretty Easy](https://www.cedricbonhomme.org/2026/05/10/alcohol-free/)
+* [Running My First Half Marathon](https://www.cedricbonhomme.org/2026/02/20/running-my-first-half-marathon/)
 <!-- blog ends -->
 
 
