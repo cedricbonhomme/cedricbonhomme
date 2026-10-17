@@ -28,11 +28,11 @@ def fetch_blog_entries():
 
 if __name__ == "__main__":
     readme = root / "README.md"
-    readme_contents = readme.open().read()
     entries = fetch_blog_entries()[:5]
+    if not entries:
+        raise SystemExit("No entries found in the RSS feed, README left unchanged.")
     entries_md = "\n".join(
         ["* [{title}]({url})".format(**entry) for entry in entries]
     )
-    rewritten = replace_chunk(readme_contents, "blog", entries_md)
-    readme.open("w").write(rewritten)
-
+    rewritten = replace_chunk(readme.read_text(), "blog", entries_md)
+    readme.write_text(rewritten)
