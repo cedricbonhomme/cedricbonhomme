@@ -12,11 +12,11 @@ You can also find more updates on my [blog](https://www.cedricbonhomme.org/blog)
 ### Recently on my blog
 
 <!-- blog starts -->
+* [Keeping the Word "I": Moving Back to SourceHut](https://www.cedricbonhomme.org/2026/11/08/keeping-the-word-i/)
 * [Keeping My XSLT-Styled Feed Alive After Chrome Drops It](https://www.cedricbonhomme.org/2026/11/01/keeping-xslt-alive/)
 * [Newspipe 12.3.0 released](https://www.cedricbonhomme.org/2026/10/22/newspipe-12-3-0/)
 * [Peeling the Onion of Computer Science](https://www.cedricbonhomme.org/2026/10/19/peeling-the-onion-of-computer-science/)
 * [A Machine That Dances in Your Place](https://www.cedricbonhomme.org/2026/10/10/a-machine-that-dances-in-your-place/)
-* [Challenging Claude's creativity with IFS fractals and OCaml](https://www.cedricbonhomme.org/2026/07/27/challenging-claude-with-ifs-fractals/)
 <!-- blog ends -->
 
 
